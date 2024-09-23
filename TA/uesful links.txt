@@ -1,0 +1,2 @@
+https://madebyollin.github.io/convnet-calculator/
+https://www.deeplearning.ai/ai-notes/optimization/index.html
