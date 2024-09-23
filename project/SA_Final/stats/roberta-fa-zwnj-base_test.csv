@@ -1,0 +1,2 @@
+test_loss,test_accuracy,precision,recall,f1
+1.3254,0.5517,0.6195,0.5245,0.5376
